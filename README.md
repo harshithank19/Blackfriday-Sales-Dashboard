@@ -2,9 +2,9 @@
 
 An interactive Power BI dashboard analyzing Black Friday retail sales data to uncover customer purchasing behavior, demographic trends, and product category performance.
 
-<img width="600" height="641" alt="image" src="https://github.com/user-attachments/assets/8b45cf6d-7bbd-4faa-a4f2-bae1eed44118" />
-<img width="600" height="647" alt="image" src="https://github.com/user-attachments/assets/2566ae8f-4b80-41e8-a8ee-5bc98b51d68e" />
-<img width="600" height="1014" alt="image" src="https://github.com/user-attachments/assets/73151f98-e820-4a06-8484-508a5c0f986a" />
+<img width="750" height="641" alt="image" src="https://github.com/user-attachments/assets/8b45cf6d-7bbd-4faa-a4f2-bae1eed44118" />
+<img width="750" height="647" alt="image" src="https://github.com/user-attachments/assets/2566ae8f-4b80-41e8-a8ee-5bc98b51d68e" />
+<img width="750" height="1014" alt="image" src="https://github.com/user-attachments/assets/73151f98-e820-4a06-8484-508a5c0f986a" />
 
 
 ---
