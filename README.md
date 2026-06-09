@@ -68,6 +68,7 @@ blackfriday-sales-dashboard/
 ## 👤 Author
 
 **Harshitha N K**  
+
 [GitHub](https://github.com/harshithank19)
 
-> This project is developed for academic and research purposes.
+
